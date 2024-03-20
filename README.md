@@ -3,7 +3,7 @@
 
 - I’m currently on fourth year studying the subjects **'Signals and Systems', 'Electronics Circuits', 'Microprocessor Laboratory' and 'Rational Mechanics'**
 
-- I’m looking for an intership to be able to **expand my knowledge and iniciate in the industry**
+- I’m looking for an intership to be able to **expand my knowledge and initiate in the industry**
 
 - 📫 How to reach me **etcheverrymeuge@gmail.com**
 
