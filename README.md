@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugenia Etcheverry</h1>
 <h3 align="center">An Electronics Engineering student from Argentina.</h3>
 
-- I’m currently on fourth year studying the subjects **'Automatic Control I', 'Stochastic Processes', 'Data Communication' and 'Introduction to Economics'**
+- I’m currently on fifth year studying the subjects **'Electronic Circuit Design Workshop', 'Mobile Robotics', 'Electronic Project Management' and 'Legislation and Professional Practice'**
 
 - I’m looking for an intership to be able to **expand my knowledge and initiate in the industry**
 
