@@ -3,8 +3,6 @@
 
 - I’m currently on fifth year studying the subjects **'Electronic Circuit Design Workshop', 'Mobile Robotics', 'Electronic Project Management' and 'Legislation and Professional Practice'**
 
-- I’m looking for an intership to be able to **expand my knowledge and initiate in the industry**
-
 - 📫 How to reach me **etcheverrymeuge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
